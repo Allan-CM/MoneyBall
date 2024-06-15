@@ -1,0 +1,200 @@
+Fixture ID,Referee,Venue,City,Home Team,Home Team Logo,Away Team,Away Team Logo,Goals Home,Goals Away,Date,Time
+1100085,K. Gjorgiev,Sportski Centar Pandev,Strumica,Akademija Pandev,https://media.api-sports.io/football/teams/4194.png,Vardar Skopje,https://media.api-sports.io/football/teams/574.png,1,0,2023-08-06,15:00:00
+1100086,I. Stojchevski,Stadion Biljanini Izvori,Ohrid,Voska Sport,https://media.api-sports.io/football/teams/17663.png,Shkendija,https://media.api-sports.io/football/teams/609.png,0,1,2023-08-06,15:00:00
+1100087,S. Trpchevski,Gradska Plaža Stadium,Struga,Struga,https://media.api-sports.io/football/teams/4346.png,KF Gostivari,https://media.api-sports.io/football/teams/4338.png,2,0,2023-08-06,15:00:00
+1100088,N. Tefiku,Gradski Stadion,Kavadarci,Tikveš,https://media.api-sports.io/football/teams/4348.png,Makedonija GjP,https://media.api-sports.io/football/teams/4196.png,1,0,2023-08-06,15:00:00
+1100089,J. Kachevski,Gradski Stadion,Štip,Bregalnica Štip,https://media.api-sports.io/football/teams/4333.png,Sileks,https://media.api-sports.io/football/teams/4331.png,2,1,2023-08-06,15:00:00
+1100090,A. Stavrev,Stadion Boris Trajkovski,Skopje,FK Rabotnicki,https://media.api-sports.io/football/teams/663.png,Shkupi 1927,https://media.api-sports.io/football/teams/2265.png,3,1,2023-08-07,15:00:00
+1100091,J. Kachevski,Stadion Boris Trajkovski,Skopje,Vardar Skopje,https://media.api-sports.io/football/teams/574.png,Shkupi 1927,https://media.api-sports.io/football/teams/2265.png,0,1,2023-08-13,15:00:00
+1100092,D. Pileshkov,Gradski stadion Kratovo,Kratovo,Sileks,https://media.api-sports.io/football/teams/4331.png,FK Rabotnicki,https://media.api-sports.io/football/teams/663.png,2,0,2023-08-13,15:00:00
+1100093,I. Stojchevski,Stadion Gorče Petrov,Skopje,Makedonija GjP,https://media.api-sports.io/football/teams/4196.png,Bregalnica Štip,https://media.api-sports.io/football/teams/4333.png,1,0,2023-08-13,15:00:00
+1100094,M. Mladenovski,Stadiumi i qytetit,Gostivar,KF Gostivari,https://media.api-sports.io/football/teams/4338.png,Tikveš,https://media.api-sports.io/football/teams/4348.png,0,3,2023-08-13,15:00:00
+1100095,K. Gjorgiev,Ecolog Arena,Tetovo,Shkendija,https://media.api-sports.io/football/teams/609.png,Struga,https://media.api-sports.io/football/teams/4346.png,1,0,2023-10-04,12:00:00
+1100096,S. Stojanov,Sportski Centar Pandev,Strumica,Akademija Pandev,https://media.api-sports.io/football/teams/4194.png,Voska Sport,https://media.api-sports.io/football/teams/17663.png,2,0,2023-08-13,15:00:00
+1100097,S. Trpchevski,Stadion Biljanini Izvori,Ohrid,Voska Sport,https://media.api-sports.io/football/teams/17663.png,Vardar Skopje,https://media.api-sports.io/football/teams/574.png,3,2,2023-08-20,15:00:00
+1100098,K. Gjorgiev,Gradska Plaža Stadium,Struga,Struga,https://media.api-sports.io/football/teams/4346.png,Akademija Pandev,https://media.api-sports.io/football/teams/4194.png,1,2,2023-08-21,15:00:00
+1100099,D. Pileshkov,Gradski Stadion,Kavadarci,Tikveš,https://media.api-sports.io/football/teams/4348.png,Shkendija,https://media.api-sports.io/football/teams/609.png,1,2,2023-08-20,15:00:00
+1100100,F. Idrizi,Gradski Stadion,Štip,Bregalnica Štip,https://media.api-sports.io/football/teams/4333.png,KF Gostivari,https://media.api-sports.io/football/teams/4338.png,2,1,2023-08-20,15:00:00
+1100101,I. Stojchevski,Stadion Boris Trajkovski,Skopje,FK Rabotnicki,https://media.api-sports.io/football/teams/663.png,Makedonija GjP,https://media.api-sports.io/football/teams/4196.png,1,0,2023-08-20,15:00:00
+1100102,J. Kachevski,Stadion Čair,Skopje,Shkupi 1927,https://media.api-sports.io/football/teams/2265.png,Sileks,https://media.api-sports.io/football/teams/4331.png,1,1,2023-08-20,15:00:00
+1100103,D. Pileshkov,Toše Proeski Arena,Skopje,Vardar Skopje,https://media.api-sports.io/football/teams/574.png,Sileks,https://media.api-sports.io/football/teams/4331.png,2,2,2023-08-23,14:30:00
+1100104,S. Trpchevski,Stadion Gorče Petrov,Skopje,Makedonija GjP,https://media.api-sports.io/football/teams/4196.png,Shkupi 1927,https://media.api-sports.io/football/teams/2265.png,0,0,2023-08-23,14:30:00
+1100105,D. Ristovski,Stadiumi i qytetit,Gostivar,KF Gostivari,https://media.api-sports.io/football/teams/4338.png,FK Rabotnicki,https://media.api-sports.io/football/teams/663.png,2,0,2023-08-23,14:30:00
+1100106,N. Tefiku,Ecolog Arena,Tetovo,Shkendija,https://media.api-sports.io/football/teams/609.png,Bregalnica Štip,https://media.api-sports.io/football/teams/4333.png,2,0,2023-08-23,14:30:00
+1100107,M. Mladenovski,Stadion Blagoj Istatov,Strumica,Akademija Pandev,https://media.api-sports.io/football/teams/4194.png,Tikveš,https://media.api-sports.io/football/teams/4348.png,2,0,2023-08-24,14:30:00
+1100108,K. Gjorgiev,Stadion Biljanini Izvori,Ohrid,Voska Sport,https://media.api-sports.io/football/teams/17663.png,Struga,https://media.api-sports.io/football/teams/4346.png,0,1,2023-09-27,13:00:00
+1100109,D. Pileshkov,Gradska Plaža Stadium,Struga,Struga,https://media.api-sports.io/football/teams/4346.png,Vardar Skopje,https://media.api-sports.io/football/teams/574.png,4,0,2023-11-01,12:00:00
+1100110,I. Stojchevski,Gradski Stadion,Kavadarci,Tikveš,https://media.api-sports.io/football/teams/4348.png,Voska Sport,https://media.api-sports.io/football/teams/17663.png,1,1,2023-08-27,14:00:00
+1100111,D. Ristovski,Gradski Stadion,Štip,Bregalnica Štip,https://media.api-sports.io/football/teams/4333.png,Akademija Pandev,https://media.api-sports.io/football/teams/4194.png,1,0,2023-08-27,14:00:00
+1100112,S. Trpchevski,Stadion Boris Trajkovski,Skopje,FK Rabotnicki,https://media.api-sports.io/football/teams/663.png,Shkendija,https://media.api-sports.io/football/teams/609.png,1,2,2023-08-27,14:00:00
+1100113,S. Stojanov,Stadion Čair,Skopje,Shkupi 1927,https://media.api-sports.io/football/teams/2265.png,KF Gostivari,https://media.api-sports.io/football/teams/4338.png,3,1,2023-08-27,14:00:00
+1100114,N. Tefiku,Gradski stadion Kratovo,Kratovo,Sileks,https://media.api-sports.io/football/teams/4331.png,Makedonija GjP,https://media.api-sports.io/football/teams/4196.png,2,2,2023-08-27,14:00:00
+1100115,M. Mladenovski,Stadion Boris Trajkovski,Skopje,Vardar Skopje,https://media.api-sports.io/football/teams/574.png,Makedonija GjP,https://media.api-sports.io/football/teams/4196.png,2,1,2023-09-02,14:00:00
+1100116,D. Pileshkov,Stadiumi i qytetit,Gostivar,KF Gostivari,https://media.api-sports.io/football/teams/4338.png,Sileks,https://media.api-sports.io/football/teams/4331.png,1,2,2023-09-02,14:00:00
+1100117,A. Grujoski,Ecolog Arena,Tetovo,Shkendija,https://media.api-sports.io/football/teams/609.png,Shkupi 1927,https://media.api-sports.io/football/teams/2265.png,0,0,2023-09-02,14:00:00
+1100118,N. Tefiku,Sportski Centar Pandev,Strumica,Akademija Pandev,https://media.api-sports.io/football/teams/4194.png,FK Rabotnicki,https://media.api-sports.io/football/teams/663.png,0,0,2023-09-02,14:00:00
+1100119,I. Stojchevski,Stadion Biljanini Izvori,Ohrid,Voska Sport,https://media.api-sports.io/football/teams/17663.png,Bregalnica Štip,https://media.api-sports.io/football/teams/4333.png,2,0,2023-09-02,14:00:00
+1100120,J. Barton,Gradska Plaža Stadium,Struga,Struga,https://media.api-sports.io/football/teams/4346.png,Tikveš,https://media.api-sports.io/football/teams/4348.png,3,1,2023-09-04,14:00:00
+1100121,J. Kachevski,Gradski Stadion,Kavadarci,Tikveš,https://media.api-sports.io/football/teams/4348.png,Vardar Skopje,https://media.api-sports.io/football/teams/574.png,1,0,2023-09-17,13:00:00
+1100122,I. Stojchevski,Gradski Stadion,Štip,Bregalnica Štip,https://media.api-sports.io/football/teams/4333.png,Struga,https://media.api-sports.io/football/teams/4346.png,1,3,2023-09-17,13:00:00
+1100123,S. Stojanov,Toše Proeski Arena,Skopje,FK Rabotnicki,https://media.api-sports.io/football/teams/663.png,Voska Sport,https://media.api-sports.io/football/teams/17663.png,2,0,2023-09-17,13:00:00
+1100124,A. Grujoski,Stadion Čair,Skopje,Shkupi 1927,https://media.api-sports.io/football/teams/2265.png,Akademija Pandev,https://media.api-sports.io/football/teams/4194.png,1,0,2023-09-16,13:00:00
+1100125,A. Stavrev,Gradski stadion Kratovo,Kratovo,Sileks,https://media.api-sports.io/football/teams/4331.png,Shkendija,https://media.api-sports.io/football/teams/609.png,2,1,2023-09-17,13:00:00
+1100126,D. Ristovski,Stadion Gorče Petrov,Skopje,Makedonija GjP,https://media.api-sports.io/football/teams/4196.png,KF Gostivari,https://media.api-sports.io/football/teams/4338.png,3,0,2023-09-17,13:00:00
+1100127,S. Stojanov,Stadion Boris Trajkovski,Skopje,Vardar Skopje,https://media.api-sports.io/football/teams/574.png,KF Gostivari,https://media.api-sports.io/football/teams/4338.png,0,2,2023-09-24,13:00:00
+1100128,V. Ilioski,Ecolog Arena,Tetovo,Shkendija,https://media.api-sports.io/football/teams/609.png,Makedonija GjP,https://media.api-sports.io/football/teams/4196.png,1,0,2023-09-24,13:00:00
+1100129,J. Kachevski,Stadion Blagoj Istatov,Strumica,Akademija Pandev,https://media.api-sports.io/football/teams/4194.png,Sileks,https://media.api-sports.io/football/teams/4331.png,1,1,2023-09-24,13:00:00
+1100130,K. Gjorgiev,Stadion Biljanini Izvori,Ohrid,Voska Sport,https://media.api-sports.io/football/teams/17663.png,Shkupi 1927,https://media.api-sports.io/football/teams/2265.png,2,3,2023-09-24,13:00:00
+1100131,M. Stojanovski,Gradska Plaža Stadium,Struga,Struga,https://media.api-sports.io/football/teams/4346.png,FK Rabotnicki,https://media.api-sports.io/football/teams/663.png,1,0,2023-09-24,13:00:00
+1100132,M. Mladenovski,Gradski Stadion,Kavadarci,Tikveš,https://media.api-sports.io/football/teams/4348.png,Bregalnica Štip,https://media.api-sports.io/football/teams/4333.png,2,1,2023-09-24,13:00:00
+1100133,S. Trpchevski,Gradski Stadion,Štip,Bregalnica Štip,https://media.api-sports.io/football/teams/4333.png,Vardar Skopje,https://media.api-sports.io/football/teams/574.png,0,0,2023-10-01,12:00:00
+1100134,A. Stavrev,Stadion Boris Trajkovski,Skopje,FK Rabotnicki,https://media.api-sports.io/football/teams/663.png,Tikveš,https://media.api-sports.io/football/teams/4348.png,1,0,2023-10-01,12:00:00
+1100135,A. Grujoski,Stadion Čair,Skopje,Shkupi 1927,https://media.api-sports.io/football/teams/2265.png,Struga,https://media.api-sports.io/football/teams/4346.png,2,0,2023-10-01,12:00:00
+1100136,B. Ralevski,Gradski stadion Kratovo,Kratovo,Sileks,https://media.api-sports.io/football/teams/4331.png,Voska Sport,https://media.api-sports.io/football/teams/17663.png,4,2,2023-10-01,12:00:00
+1100137,I. Stojchevski,Stadion Gorče Petrov,Skopje,Makedonija GjP,https://media.api-sports.io/football/teams/4196.png,Akademija Pandev,https://media.api-sports.io/football/teams/4194.png,1,0,2023-09-30,12:00:00
+1100138,J. Kachevski,Stadiumi i qytetit,Gostivar,KF Gostivari,https://media.api-sports.io/football/teams/4338.png,Shkendija,https://media.api-sports.io/football/teams/609.png,2,2,2023-10-01,12:00:00
+1100139,S. Trpchevski,Stadion Boris Trajkovski,Skopje,Vardar Skopje,https://media.api-sports.io/football/teams/574.png,Shkendija,https://media.api-sports.io/football/teams/609.png,0,2,2023-10-08,12:00:00
+1100140,A. Grujoski,Stadion Blagoj Istatov,Strumica,Akademija Pandev,https://media.api-sports.io/football/teams/4194.png,KF Gostivari,https://media.api-sports.io/football/teams/4338.png,0,1,2023-10-07,12:00:00
+1100141,A. Stavrev,Stadion Biljanini Izvori,Ohrid,Voska Sport,https://media.api-sports.io/football/teams/17663.png,Makedonija GjP,https://media.api-sports.io/football/teams/4196.png,2,1,2023-10-07,12:00:00
+1100142,D. Pileshkov,Gradska Plaža Stadium,Struga,Struga,https://media.api-sports.io/football/teams/4346.png,Sileks,https://media.api-sports.io/football/teams/4331.png,2,0,2023-10-08,12:00:00
+1100143,J. Kachevski,Gradski Stadion,Kavadarci,Tikveš,https://media.api-sports.io/football/teams/4348.png,Shkupi 1927,https://media.api-sports.io/football/teams/2265.png,1,1,2023-10-07,12:00:00
+1100144,N. Tefiku,Gradski Stadion,Štip,Bregalnica Štip,https://media.api-sports.io/football/teams/4333.png,FK Rabotnicki,https://media.api-sports.io/football/teams/663.png,2,1,2023-10-07,12:00:00
+1100145,I. Stojchevski,Stadion Boris Trajkovski,Skopje,FK Rabotnicki,https://media.api-sports.io/football/teams/663.png,Vardar Skopje,https://media.api-sports.io/football/teams/574.png,0,1,2023-10-22,12:00:00
+1100146,V. Ilioski,Milano Arena,Kumanovo,Shkupi 1927,https://media.api-sports.io/football/teams/2265.png,Bregalnica Štip,https://media.api-sports.io/football/teams/4333.png,1,0,2023-10-22,12:00:00
+1100147,M. Mladenovski,Gradski stadion Kratovo,Kratovo,Sileks,https://media.api-sports.io/football/teams/4331.png,Tikveš,https://media.api-sports.io/football/teams/4348.png,1,0,2023-10-22,12:00:00
+1100148,S. Trpchevski,Stadion Gorče Petrov,Skopje,Makedonija GjP,https://media.api-sports.io/football/teams/4196.png,Struga,https://media.api-sports.io/football/teams/4346.png,0,3,2023-10-22,12:00:00
+1100149,S. Stojanov,Stadiumi i qytetit,Gostivar,KF Gostivari,https://media.api-sports.io/football/teams/4338.png,Voska Sport,https://media.api-sports.io/football/teams/17663.png,1,1,2023-10-22,12:00:00
+1100150,D. Pileshkov,Ecolog Arena,Tetovo,Shkendija,https://media.api-sports.io/football/teams/609.png,Akademija Pandev,https://media.api-sports.io/football/teams/4194.png,1,1,2023-10-22,12:00:00
+1100151,J. Kachevski,Stadion Boris Trajkovski,Skopje,Vardar Skopje,https://media.api-sports.io/football/teams/574.png,Akademija Pandev,https://media.api-sports.io/football/teams/4194.png,1,0,2023-10-29,12:00:00
+1100152,V. Ilioski,Ecolog Arena,Tetovo,Shkendija,https://media.api-sports.io/football/teams/609.png,Voska Sport,https://media.api-sports.io/football/teams/17663.png,1,1,2023-10-29,12:00:00
+1100153,I. Stojchevski,Stadiumi i qytetit,Gostivar,KF Gostivari,https://media.api-sports.io/football/teams/4338.png,Struga,https://media.api-sports.io/football/teams/4346.png,2,1,2023-10-29,12:00:00
+1100154,A. Grujoski,Stadion Gorče Petrov,Skopje,Makedonija GjP,https://media.api-sports.io/football/teams/4196.png,Tikveš,https://media.api-sports.io/football/teams/4348.png,1,1,2023-10-29,12:00:00
+1100155,N. Tefiku,Gradski stadion Kratovo,Kratovo,Sileks,https://media.api-sports.io/football/teams/4331.png,Bregalnica Štip,https://media.api-sports.io/football/teams/4333.png,0,0,2023-10-28,11:00:00
+1100156,S. Trpchevski,Stadion Čair,Skopje,Shkupi 1927,https://media.api-sports.io/football/teams/2265.png,FK Rabotnicki,https://media.api-sports.io/football/teams/663.png,3,0,2023-10-29,12:00:00
+1100157,D. Pileshkov,Stadion Čair,Skopje,Shkupi 1927,https://media.api-sports.io/football/teams/2265.png,Vardar Skopje,https://media.api-sports.io/football/teams/574.png,2,0,2023-11-05,12:00:00
+1100158,A. Stavrev,Stadion Boris Trajkovski,Skopje,FK Rabotnicki,https://media.api-sports.io/football/teams/663.png,Sileks,https://media.api-sports.io/football/teams/4331.png,1,0,2023-11-04,12:00:00
+1100159,S. Trpchevski,Gradski Stadion,Štip,Bregalnica Štip,https://media.api-sports.io/football/teams/4333.png,Makedonija GjP,https://media.api-sports.io/football/teams/4196.png,2,3,2023-11-04,12:00:00
+1100160,A. Grujoski,Gradski Stadion,Kavadarci,Tikveš,https://media.api-sports.io/football/teams/4348.png,KF Gostivari,https://media.api-sports.io/football/teams/4338.png,2,2,2023-11-04,12:00:00
+1100161,K. Gjorgiev,Gradska Plaža Stadium,Struga,Struga,https://media.api-sports.io/football/teams/4346.png,Shkendija,https://media.api-sports.io/football/teams/609.png,2,1,2023-11-05,12:00:00
+1100162,F. Idrizi,Stadion Biljanini Izvori,Ohrid,Voska Sport,https://media.api-sports.io/football/teams/17663.png,Akademija Pandev,https://media.api-sports.io/football/teams/4194.png,1,1,2023-11-04,12:00:00
+1100163,I. Stojchevski,Stadion Boris Trajkovski,Skopje,Vardar Skopje,https://media.api-sports.io/football/teams/574.png,Voska Sport,https://media.api-sports.io/football/teams/17663.png,1,2,2023-11-11,12:00:00
+1100164,A. Grujoski,Sportski Centar Pandev,Strumica,Akademija Pandev,https://media.api-sports.io/football/teams/4194.png,Struga,https://media.api-sports.io/football/teams/4346.png,2,1,2023-11-11,12:00:00
+1100165,S. Stojanov,Ecolog Arena,Tetovo,Shkendija,https://media.api-sports.io/football/teams/609.png,Tikveš,https://media.api-sports.io/football/teams/4348.png,1,0,2023-11-11,12:00:00
+1100166,A. Stavrev,Igralište Golema Rečica,Tetovo,KF Gostivari,https://media.api-sports.io/football/teams/4338.png,Bregalnica Štip,https://media.api-sports.io/football/teams/4333.png,1,0,2023-11-11,12:00:00
+1100167,N. Tefiku,Stadion Gorče Petrov,Skopje,Makedonija GjP,https://media.api-sports.io/football/teams/4196.png,FK Rabotnicki,https://media.api-sports.io/football/teams/663.png,0,1,2023-11-12,12:00:00
+1100168,D. Pileshkov,Gradski stadion Kratovo,Kratovo,Sileks,https://media.api-sports.io/football/teams/4331.png,Shkupi 1927,https://media.api-sports.io/football/teams/2265.png,2,1,2023-11-12,12:00:00
+1100169,N. Tefiku,Gradski stadion Kratovo,Kratovo,Sileks,https://media.api-sports.io/football/teams/4331.png,Vardar Skopje,https://media.api-sports.io/football/teams/574.png,3,2,2023-12-06,12:00:00
+1100170,B. Ralevski,Stadion Čair,Skopje,Shkupi 1927,https://media.api-sports.io/football/teams/2265.png,Makedonija GjP,https://media.api-sports.io/football/teams/4196.png,1,0,2023-11-26,12:00:00
+1100171,J. Kachevski,Trening centar Petar Miloševski,Skopje,FK Rabotnicki,https://media.api-sports.io/football/teams/663.png,KF Gostivari,https://media.api-sports.io/football/teams/4338.png,0,0,2023-11-26,12:00:00
+1100172,A. Grujoski,Gradski Stadion,Štip,Bregalnica Štip,https://media.api-sports.io/football/teams/4333.png,Shkendija,https://media.api-sports.io/football/teams/609.png,2,2,2023-11-25,12:00:00
+1100173,I. Projkovska,Gradski Stadion,Kavadarci,Tikveš,https://media.api-sports.io/football/teams/4348.png,Akademija Pandev,https://media.api-sports.io/football/teams/4194.png,1,0,2023-11-26,12:00:00
+1100174,I. Stojchevski,Gradska Plaža Stadium,Struga,Struga,https://media.api-sports.io/football/teams/4346.png,Voska Sport,https://media.api-sports.io/football/teams/17663.png,1,0,2023-12-06,12:00:00
+1100175,K. Gjorgiev,Trening centar Petar Miloševski,Skopje,Vardar Skopje,https://media.api-sports.io/football/teams/574.png,Struga,https://media.api-sports.io/football/teams/4346.png,1,3,2023-11-29,12:00:00
+1100176,A. Stavrev,Stadion Biljanini Izvori,Ohrid,Voska Sport,https://media.api-sports.io/football/teams/17663.png,Tikveš,https://media.api-sports.io/football/teams/4348.png,0,3,2023-11-29,12:00:00
+1100177,V. Ilioski,Stadion Blagoj Istatov,Strumica,Akademija Pandev,https://media.api-sports.io/football/teams/4194.png,Bregalnica Štip,https://media.api-sports.io/football/teams/4333.png,1,1,2023-11-29,12:00:00
+1100178,A. Grujoski,Ecolog Arena,Tetovo,Shkendija,https://media.api-sports.io/football/teams/609.png,FK Rabotnicki,https://media.api-sports.io/football/teams/663.png,2,0,2023-11-29,12:00:00
+1100179,S. Trpchevski,Stadiumi i qytetit,Gostivar,KF Gostivari,https://media.api-sports.io/football/teams/4338.png,Shkupi 1927,https://media.api-sports.io/football/teams/2265.png,0,0,2023-11-29,12:00:00
+1100180,D. Pileshkov,Stadion Gorče Petrov,Skopje,Makedonija GjP,https://media.api-sports.io/football/teams/4196.png,Sileks,https://media.api-sports.io/football/teams/4331.png,1,0,2023-11-29,12:00:00
+1100181,M. Mladenovski,Stadion Gorče Petrov,Skopje,Makedonija GjP,https://media.api-sports.io/football/teams/4196.png,Vardar Skopje,https://media.api-sports.io/football/teams/574.png,0,1,2023-12-02,12:00:00
+1100182,K. Gjorgiev,Gradski stadion Kratovo,Kratovo,Sileks,https://media.api-sports.io/football/teams/4331.png,KF Gostivari,https://media.api-sports.io/football/teams/4338.png,1,1,2023-12-03,12:00:00
+1100183,A. Grujoski,Stadion Čair,Skopje,Shkupi 1927,https://media.api-sports.io/football/teams/2265.png,Shkendija,https://media.api-sports.io/football/teams/609.png,1,0,2023-12-03,12:00:00
+1100184,A. Stavrev,Stadion Boris Trajkovski,Skopje,FK Rabotnicki,https://media.api-sports.io/football/teams/663.png,Akademija Pandev,https://media.api-sports.io/football/teams/4194.png,1,0,2023-12-03,12:00:00
+1100185,N. Tefiku,Gradski Stadion,Štip,Bregalnica Štip,https://media.api-sports.io/football/teams/4333.png,Voska Sport,https://media.api-sports.io/football/teams/17663.png,2,2,2023-12-03,12:00:00
+1100186,I. Stojchevski,Gradski Stadion,Kavadarci,Tikveš,https://media.api-sports.io/football/teams/4348.png,Struga,https://media.api-sports.io/football/teams/4346.png,2,3,2023-12-03,12:00:00
+1100187,D. Pileshkov,Stadion Boris Trajkovski,Skopje,Vardar Skopje,https://media.api-sports.io/football/teams/574.png,Tikveš,https://media.api-sports.io/football/teams/4348.png,2,0,2023-12-10,12:00:00
+1100188,A. Stavrev,Gradska Plaža Stadium,Struga,Struga,https://media.api-sports.io/football/teams/4346.png,Bregalnica Štip,https://media.api-sports.io/football/teams/4333.png,2,1,2023-12-10,12:00:00
+1100189,V. Ilioski,Stadion Biljanini Izvori,Ohrid,Voska Sport,https://media.api-sports.io/football/teams/17663.png,FK Rabotnicki,https://media.api-sports.io/football/teams/663.png,3,2,2023-12-10,12:00:00
+1100190,A. Grujoski,Sportski Centar Pandev,Strumica,Akademija Pandev,https://media.api-sports.io/football/teams/4194.png,Shkupi 1927,https://media.api-sports.io/football/teams/2265.png,0,1,2023-12-10,12:00:00
+1100191,J. Kachevski,Ecolog Arena,Tetovo,Shkendija,https://media.api-sports.io/football/teams/609.png,Sileks,https://media.api-sports.io/football/teams/4331.png,3,1,2023-12-10,12:00:00
+1100192,S. Stojanov,Stadiumi i qytetit,Gostivar,KF Gostivari,https://media.api-sports.io/football/teams/4338.png,Makedonija GjP,https://media.api-sports.io/football/teams/4196.png,1,0,2023-12-09,12:00:00
+1100193,A. Stavrev,Stadiumi i qytetit,Gostivar,KF Gostivari,https://media.api-sports.io/football/teams/4338.png,Vardar Skopje,https://media.api-sports.io/football/teams/574.png,1,1,2024-02-17,13:00:00
+1100194,S. Trpchevski,Stadion Gorče Petrov,Skopje,Makedonija GjP,https://media.api-sports.io/football/teams/4196.png,Shkendija,https://media.api-sports.io/football/teams/609.png,0,1,2024-02-18,13:00:00
+1100195,M. Mladenovski,Gradski stadion Kratovo,Kratovo,Sileks,https://media.api-sports.io/football/teams/4331.png,Akademija Pandev,https://media.api-sports.io/football/teams/4194.png,0,1,2024-02-18,13:00:00
+1100196,A. Grujoski,Stadion Čair,Skopje,Shkupi 1927,https://media.api-sports.io/football/teams/2265.png,Voska Sport,https://media.api-sports.io/football/teams/17663.png,3,0,2024-02-18,13:00:00
+1100197,D. Pileshkov,Stadion Boris Trajkovski,Skopje,FK Rabotnicki,https://media.api-sports.io/football/teams/663.png,Struga,https://media.api-sports.io/football/teams/4346.png,0,0,2024-02-18,13:00:00
+1100198,N. Tefiku,Gradski Stadion,Štip,Bregalnica Štip,https://media.api-sports.io/football/teams/4333.png,Tikveš,https://media.api-sports.io/football/teams/4348.png,2,1,2024-02-18,13:00:00
+1100199,S. Trpchevski,Stadion Boris Trajkovski,Skopje,Vardar Skopje,https://media.api-sports.io/football/teams/574.png,Bregalnica Štip,https://media.api-sports.io/football/teams/4333.png,2,0,2024-02-25,13:00:00
+1100200,A. Stavrev,Gradski Stadion,Kavadarci,Tikveš,https://media.api-sports.io/football/teams/4348.png,FK Rabotnicki,https://media.api-sports.io/football/teams/663.png,2,0,2024-02-25,13:00:00
+1100201,D. Pileshkov,Gradska Plaža Stadium,Struga,Struga,https://media.api-sports.io/football/teams/4346.png,Shkupi 1927,https://media.api-sports.io/football/teams/2265.png,2,2,2024-02-24,13:00:00
+1100202,N. Tefiku,Stadion Biljanini Izvori,Ohrid,Voska Sport,https://media.api-sports.io/football/teams/17663.png,Sileks,https://media.api-sports.io/football/teams/4331.png,0,0,2024-02-25,13:00:00
+1100203,A. Grujoski,Stadion Kukuš,Turnovo,Akademija Pandev,https://media.api-sports.io/football/teams/4194.png,Makedonija GjP,https://media.api-sports.io/football/teams/4196.png,3,0,2024-02-25,13:00:00
+1100204,M. Mladenovski,Ecolog Arena,Tetovo,Shkendija,https://media.api-sports.io/football/teams/609.png,KF Gostivari,https://media.api-sports.io/football/teams/4338.png,2,2,2024-02-25,13:00:00
+1100205,S. Trpchevski,Ecolog Arena,Tetovo,Shkendija,https://media.api-sports.io/football/teams/609.png,Vardar Skopje,https://media.api-sports.io/football/teams/574.png,3,0,2024-03-03,13:00:00
+1100206,N. Tefiku,Stadiumi i qytetit,Gostivar,KF Gostivari,https://media.api-sports.io/football/teams/4338.png,Akademija Pandev,https://media.api-sports.io/football/teams/4194.png,2,0,2024-03-03,13:00:00
+1100207,K. Smokvoski,Stadion Gorče Petrov,Skopje,Makedonija GjP,https://media.api-sports.io/football/teams/4196.png,Voska Sport,https://media.api-sports.io/football/teams/17663.png,1,2,2024-03-03,13:00:00
+1100208,A. Grujoski,Gradski stadion Kratovo,Kratovo,Sileks,https://media.api-sports.io/football/teams/4331.png,Struga,https://media.api-sports.io/football/teams/4346.png,0,0,2024-03-03,13:00:00
+1100209,A. Stavrev,Stadion Čair,Skopje,Shkupi 1927,https://media.api-sports.io/football/teams/2265.png,Tikveš,https://media.api-sports.io/football/teams/4348.png,0,0,2024-03-03,13:00:00
+1100210,J. Kachevski,Toše Proeski Arena,Skopje,FK Rabotnicki,https://media.api-sports.io/football/teams/663.png,Bregalnica Štip,https://media.api-sports.io/football/teams/4333.png,2,0,2024-03-03,13:00:00
+1100211,A. Stavrev,Stadion Boris Trajkovski,Skopje,Vardar Skopje,https://media.api-sports.io/football/teams/574.png,FK Rabotnicki,https://media.api-sports.io/football/teams/663.png,1,0,2024-03-06,13:00:00
+1100212,A. Grujoski,Gradski Stadion,Štip,Bregalnica Štip,https://media.api-sports.io/football/teams/4333.png,Shkupi 1927,https://media.api-sports.io/football/teams/2265.png,0,0,2024-03-06,13:00:00
+1100213,M. Mladenovski,Gradski Stadion,Kavadarci,Tikveš,https://media.api-sports.io/football/teams/4348.png,Sileks,https://media.api-sports.io/football/teams/4331.png,1,0,2024-03-06,13:00:00
+1100214,N. Tefiku,Gradska Plaža Stadium,Struga,Struga,https://media.api-sports.io/football/teams/4346.png,Makedonija GjP,https://media.api-sports.io/football/teams/4196.png,2,1,2024-03-06,13:00:00
+1100215,D. Pileshkov,Stadion Biljanini Izvori,Ohrid,Voska Sport,https://media.api-sports.io/football/teams/17663.png,KF Gostivari,https://media.api-sports.io/football/teams/4338.png,1,1,2024-03-06,13:00:00
+1100216,S. Trpchevski,Stadion Kukuš,Turnovo,Akademija Pandev,https://media.api-sports.io/football/teams/4194.png,Shkendija,https://media.api-sports.io/football/teams/609.png,0,0,2024-03-06,13:00:00
+1182934,M. Mladenovski,Gradska Plaža Stadium,Struga,Struga,https://media.api-sports.io/football/teams/4346.png,Akademija Pandev,https://media.api-sports.io/football/teams/4194.png,3,1,2024-03-10,13:00:00
+1182935,K. Gjorgiev,Stadion Čair,Skopje,Shkupi 1927,https://media.api-sports.io/football/teams/2265.png,FK Rabotnicki,https://media.api-sports.io/football/teams/663.png,3,2,2024-03-10,13:00:00
+1182936,D. Pileshkov,Ecolog Arena,Tetovo,Shkendija,https://media.api-sports.io/football/teams/609.png,Voska Sport,https://media.api-sports.io/football/teams/17663.png,0,0,2024-03-10,13:00:00
+1182937,J. Kachevski,Stadiumi i qytetit,Gostivar,KF Gostivari,https://media.api-sports.io/football/teams/4338.png,Vardar Skopje,https://media.api-sports.io/football/teams/574.png,0,0,2024-03-10,13:00:00
+1182938,A. Stavrev,Gradski Stadion,Kavadarci,Tikveš,https://media.api-sports.io/football/teams/4348.png,Bregalnica Štip,https://media.api-sports.io/football/teams/4333.png,2,1,2024-03-10,13:00:00
+1182939,S. Trpchevski,Gradski stadion Kratovo,Kratovo,Sileks,https://media.api-sports.io/football/teams/4331.png,Makedonija GjP,https://media.api-sports.io/football/teams/4196.png,1,0,2024-03-10,13:00:00
+1182940,A. Stavrev,Gradski stadion Kratovo,Kratovo,Sileks,https://media.api-sports.io/football/teams/4331.png,Akademija Pandev,https://media.api-sports.io/football/teams/4194.png,2,1,2024-03-16,14:00:00
+1182941,K. Gjorgiev,Stadion Gorče Petrov,Skopje,Makedonija GjP,https://media.api-sports.io/football/teams/4196.png,Tikveš,https://media.api-sports.io/football/teams/4348.png,1,0,2024-03-16,14:00:00
+1182942,M. Mladenovski,Gradski Stadion,Štip,Bregalnica Štip,https://media.api-sports.io/football/teams/4333.png,KF Gostivari,https://media.api-sports.io/football/teams/4338.png,0,0,2024-03-16,14:00:00
+1182943,D. Pileshkov,Toše Proeski Arena,Skopje,Vardar Skopje,https://media.api-sports.io/football/teams/574.png,Shkendija,https://media.api-sports.io/football/teams/609.png,1,1,2024-03-16,14:00:00
+1182944,S. Trpchevski,Stadion Biljanini Izvori,Ohrid,Voska Sport,https://media.api-sports.io/football/teams/17663.png,Shkupi 1927,https://media.api-sports.io/football/teams/2265.png,0,0,2024-03-16,14:00:00
+1182945,A. Grujoski,Toše Proeski Arena,Skopje,FK Rabotnicki,https://media.api-sports.io/football/teams/663.png,Struga,https://media.api-sports.io/football/teams/4346.png,1,2,2024-03-17,14:00:00
+1182946,A. Grujoski,Stadion Kukuš,Turnovo,Akademija Pandev,https://media.api-sports.io/football/teams/4194.png,FK Rabotnicki,https://media.api-sports.io/football/teams/663.png,2,1,2024-03-31,13:00:00
+1182947,S. Trpchevski,Gradska Plaža Stadium,Struga,Struga,https://media.api-sports.io/football/teams/4346.png,Voska Sport,https://media.api-sports.io/football/teams/17663.png,3,1,2024-03-31,13:00:00
+1182948,M. Mladenovski,Stadion Čair,Skopje,Shkupi 1927,https://media.api-sports.io/football/teams/2265.png,Vardar Skopje,https://media.api-sports.io/football/teams/574.png,3,0,2024-03-30,14:00:00
+1182949,I. Ivanov,Ecolog Arena,Tetovo,Shkendija,https://media.api-sports.io/football/teams/609.png,Bregalnica Štip,https://media.api-sports.io/football/teams/4333.png,4,1,2024-03-31,13:00:00
+1182950,D. Pileshkov,Stadiumi i qytetit,Gostivar,KF Gostivari,https://media.api-sports.io/football/teams/4338.png,Makedonija GjP,https://media.api-sports.io/football/teams/4196.png,1,4,2024-03-31,13:00:00
+1182951,A. Stavrev,Gradski Stadion,Kavadarci,Tikveš,https://media.api-sports.io/football/teams/4348.png,Sileks,https://media.api-sports.io/football/teams/4331.png,1,1,2024-03-30,14:00:00
+1182952,A. Grujoski,Gradski Stadion,Kavadarci,Tikveš,https://media.api-sports.io/football/teams/4348.png,Akademija Pandev,https://media.api-sports.io/football/teams/4194.png,3,1,2024-04-07,13:00:00
+1182953,M. Mladenovski,Gradski stadion Kratovo,Kratovo,Sileks,https://media.api-sports.io/football/teams/4331.png,KF Gostivari,https://media.api-sports.io/football/teams/4338.png,0,0,2024-04-06,13:00:00
+1182954,D. Pileshkov,Stadion Gorče Petrov,Skopje,Makedonija GjP,https://media.api-sports.io/football/teams/4196.png,Shkendija,https://media.api-sports.io/football/teams/609.png,1,1,2024-04-07,13:00:00
+1182955,N. Tefiku,Gradski Stadion,Štip,Bregalnica Štip,https://media.api-sports.io/football/teams/4333.png,Shkupi 1927,https://media.api-sports.io/football/teams/2265.png,1,0,2024-04-07,13:00:00
+1182956,S. Trpchevski,Stadion Boris Trajkovski,Skopje,Vardar Skopje,https://media.api-sports.io/football/teams/574.png,Struga,https://media.api-sports.io/football/teams/4346.png,1,0,2024-04-07,13:00:00
+1182957,J. Kachevski,Stadion Biljanini Izvori,Ohrid,Voska Sport,https://media.api-sports.io/football/teams/17663.png,FK Rabotnicki,https://media.api-sports.io/football/teams/663.png,1,1,2024-04-07,13:00:00
+1182958,D. Pileshkov,Stadion Kukuš,Turnovo,Akademija Pandev,https://media.api-sports.io/football/teams/4194.png,Voska Sport,https://media.api-sports.io/football/teams/17663.png,1,0,2024-04-13,13:00:00
+1182959,A. Stavrev,Toše Proeski Arena,Skopje,FK Rabotnicki,https://media.api-sports.io/football/teams/663.png,Vardar Skopje,https://media.api-sports.io/football/teams/574.png,2,0,2024-04-14,13:00:00
+1182960,M. Mladenovski,Gradska Plaža Stadium,Struga,Struga,https://media.api-sports.io/football/teams/4346.png,Bregalnica Štip,https://media.api-sports.io/football/teams/4333.png,2,2,2024-04-14,13:00:00
+1182961,B. Kjerimi,Stadion Čair,Skopje,Shkupi 1927,https://media.api-sports.io/football/teams/2265.png,Makedonija GjP,https://media.api-sports.io/football/teams/4196.png,3,1,2024-04-13,13:00:00
+1182962,J. Kachevski,Ecolog Arena,Tetovo,Shkendija,https://media.api-sports.io/football/teams/609.png,Sileks,https://media.api-sports.io/football/teams/4331.png,6,1,2024-04-14,13:00:00
+1182963,K. Gjorgiev,Stadiumi i qytetit,Gostivar,KF Gostivari,https://media.api-sports.io/football/teams/4338.png,Tikveš,https://media.api-sports.io/football/teams/4348.png,2,1,2024-04-13,13:00:00
+1182964,A. Stavrev,Stadiumi i qytetit,Gostivar,KF Gostivari,https://media.api-sports.io/football/teams/4338.png,Akademija Pandev,https://media.api-sports.io/football/teams/4194.png,1,1,2024-04-21,14:00:00
+1182965,J. Kachevski,Gradski Stadion,Kavadarci,Tikveš,https://media.api-sports.io/football/teams/4348.png,Shkendija,https://media.api-sports.io/football/teams/609.png,2,1,2024-04-21,14:00:00
+1182966,A. Grujoski,Gradski stadion Kratovo,Kratovo,Sileks,https://media.api-sports.io/football/teams/4331.png,Shkupi 1927,https://media.api-sports.io/football/teams/2265.png,0,0,2024-04-21,14:00:00
+1182967,K. Gjorgiev,Stadion Gorče Petrov,Skopje,Makedonija GjP,https://media.api-sports.io/football/teams/4196.png,Struga,https://media.api-sports.io/football/teams/4346.png,0,1,2024-04-21,14:00:00
+1182968,S. Trpchevski,Gradski Stadion,Štip,Bregalnica Štip,https://media.api-sports.io/football/teams/4333.png,FK Rabotnicki,https://media.api-sports.io/football/teams/663.png,0,1,2024-04-20,14:00:00
+1182969,D. Pileshkov,Stadion Boris Trajkovski,Skopje,Vardar Skopje,https://media.api-sports.io/football/teams/574.png,Voska Sport,https://media.api-sports.io/football/teams/17663.png,0,1,2024-04-21,14:00:00
+1182970,A. Stavrev,Stadion Kukuš,Turnovo,Akademija Pandev,https://media.api-sports.io/football/teams/4194.png,Vardar Skopje,https://media.api-sports.io/football/teams/574.png,2,0,2024-04-28,14:00:00
+1182971,J. Kachevski,Stadion Biljanini Izvori,Ohrid,Voska Sport,https://media.api-sports.io/football/teams/17663.png,Bregalnica Štip,https://media.api-sports.io/football/teams/4333.png,4,0,2024-04-28,14:00:00
+1182972,M. Mladenovski,Toše Proeski Arena,Skopje,FK Rabotnicki,https://media.api-sports.io/football/teams/663.png,Makedonija GjP,https://media.api-sports.io/football/teams/4196.png,1,1,2024-04-28,14:00:00
+1182973,A. Grujoski,Gradska Plaža Stadium,Struga,Struga,https://media.api-sports.io/football/teams/4346.png,Sileks,https://media.api-sports.io/football/teams/4331.png,2,3,2024-04-28,14:00:00
+1182974,D. Pileshkov,Stadion Čair,Skopje,Shkupi 1927,https://media.api-sports.io/football/teams/2265.png,Tikveš,https://media.api-sports.io/football/teams/4348.png,3,2,2024-04-28,14:00:00
+1182975,I. Ivanov,Ecolog Arena,Tetovo,Shkendija,https://media.api-sports.io/football/teams/609.png,KF Gostivari,https://media.api-sports.io/football/teams/4338.png,4,1,2024-04-28,14:00:00
+1182976,I. Projkovska,Ecolog Arena,Tetovo,Shkendija,https://media.api-sports.io/football/teams/609.png,Akademija Pandev,https://media.api-sports.io/football/teams/4194.png,3,2,2024-05-01,14:00:00
+1182977,S. Trpchevski,Stadiumi i qytetit,Gostivar,KF Gostivari,https://media.api-sports.io/football/teams/4338.png,Shkupi 1927,https://media.api-sports.io/football/teams/2265.png,2,0,2024-05-01,14:00:00
+1182978,D. Pileshkov,Gradski Stadion,Kavadarci,Tikveš,https://media.api-sports.io/football/teams/4348.png,Struga,https://media.api-sports.io/football/teams/4346.png,3,2,2024-05-01,14:00:00
+1182979,A. Grujoski,Gradski stadion Kratovo,Kratovo,Sileks,https://media.api-sports.io/football/teams/4331.png,FK Rabotnicki,https://media.api-sports.io/football/teams/663.png,0,1,2024-05-01,14:00:00
+1182980,I. Ivanov,Stadion Gorče Petrov,Skopje,Makedonija GjP,https://media.api-sports.io/football/teams/4196.png,Voska Sport,https://media.api-sports.io/football/teams/17663.png,0,2,2024-05-01,14:00:00
+1182981,J. Kachevski,Gradski Stadion,Štip,Bregalnica Štip,https://media.api-sports.io/football/teams/4333.png,Vardar Skopje,https://media.api-sports.io/football/teams/574.png,0,3,2024-05-01,14:00:00
+1182982,I. Projkovska,Stadion Kukuš,Turnovo,Akademija Pandev,https://media.api-sports.io/football/teams/4194.png,Bregalnica Štip,https://media.api-sports.io/football/teams/4333.png,1,1,2024-05-04,15:00:00
+1182983,I. Ivanov,Stadion Boris Trajkovski,Skopje,Vardar Skopje,https://media.api-sports.io/football/teams/574.png,Makedonija GjP,https://media.api-sports.io/football/teams/4196.png,1,0,2024-05-04,15:00:00
+1182984,A. Grujoski,Stadion Biljanini Izvori,Ohrid,Voska Sport,https://media.api-sports.io/football/teams/17663.png,Sileks,https://media.api-sports.io/football/teams/4331.png,2,1,2024-05-04,15:00:00
+1182985,J. Kachevski,Toše Proeski Arena,Skopje,FK Rabotnicki,https://media.api-sports.io/football/teams/663.png,Tikveš,https://media.api-sports.io/football/teams/4348.png,3,1,2024-05-04,15:00:00
+1182986,M. Mladenovski,Gradska Plaža Stadium,Struga,Struga,https://media.api-sports.io/football/teams/4346.png,KF Gostivari,https://media.api-sports.io/football/teams/4338.png,1,0,2024-05-04,15:00:00
+1182987,D. Pileshkov,Stadion Čair,Skopje,Shkupi 1927,https://media.api-sports.io/football/teams/2265.png,Shkendija,https://media.api-sports.io/football/teams/609.png,0,2,2024-05-04,15:00:00
+1182988,K. Gjorgiev,Stadion Čair,Skopje,Shkupi 1927,https://media.api-sports.io/football/teams/2265.png,Akademija Pandev,https://media.api-sports.io/football/teams/4194.png,0,0,2024-05-12,15:00:00
+1182989,S. Trpchevski,Ecolog Arena,Tetovo,Shkendija,https://media.api-sports.io/football/teams/609.png,Struga,https://media.api-sports.io/football/teams/4346.png,0,2,2024-05-12,15:00:00
+1182990,D. Ristovski,Stadiumi i qytetit,Gostivar,KF Gostivari,https://media.api-sports.io/football/teams/4338.png,FK Rabotnicki,https://media.api-sports.io/football/teams/663.png,0,0,2024-05-12,15:00:00
+1182991,D. Pileshkov,Gradski Stadion,Kavadarci,Tikveš,https://media.api-sports.io/football/teams/4348.png,Voska Sport,https://media.api-sports.io/football/teams/17663.png,0,0,2024-05-12,15:00:00
+1182992,J. Kachevski,Gradski stadion Kratovo,Kratovo,Sileks,https://media.api-sports.io/football/teams/4331.png,Vardar Skopje,https://media.api-sports.io/football/teams/574.png,1,1,2024-05-12,15:00:00
+1182993,I. Projkovska,Stadion Gorče Petrov,Skopje,Makedonija GjP,https://media.api-sports.io/football/teams/4196.png,Bregalnica Štip,https://media.api-sports.io/football/teams/4333.png,2,1,2024-05-12,15:00:00
+1182994,S. Trpchevski,Stadion Kukuš,Turnovo,Akademija Pandev,https://media.api-sports.io/football/teams/4194.png,Makedonija GjP,https://media.api-sports.io/football/teams/4196.png,5,3,2024-05-18,15:00:00
+1182995,F. Idrizi,Gradski Stadion,Štip,Bregalnica Štip,https://media.api-sports.io/football/teams/4333.png,Sileks,https://media.api-sports.io/football/teams/4331.png,1,1,2024-05-18,15:00:00
+1182996,S. Ristov,Stadion Boris Trajkovski,Skopje,Vardar Skopje,https://media.api-sports.io/football/teams/574.png,Tikveš,https://media.api-sports.io/football/teams/4348.png,2,2,2024-05-18,15:00:00
+1182997,K. Gjorgiev,Stadion Biljanini Izvori,Ohrid,Voska Sport,https://media.api-sports.io/football/teams/17663.png,KF Gostivari,https://media.api-sports.io/football/teams/4338.png,1,1,2024-05-18,15:00:00
+1182998,J. Kachevski,Toše Proeski Arena,Skopje,FK Rabotnicki,https://media.api-sports.io/football/teams/663.png,Shkendija,https://media.api-sports.io/football/teams/609.png,0,2,2024-05-18,15:00:00
+1182999,A. Grujoski,Gradska Plaža Stadium,Struga,Struga,https://media.api-sports.io/football/teams/4346.png,Shkupi 1927,https://media.api-sports.io/football/teams/2265.png,1,2,2024-05-18,15:00:00
+1201360,,Stadion Blagoj Istatov,Strumica,Vardar Skopje,https://media.api-sports.io/football/teams/574.png,Detonit Plachkovica,https://media.api-sports.io/football/teams/19754.png,2,0,2024-05-26,15:00:00
